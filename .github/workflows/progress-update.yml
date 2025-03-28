@@ -26,12 +26,17 @@ jobs:
 
     - name: Make changes
       run: |
-        # Your script to make changes goes here
-
+        # Example script to make changes
+        echo "New progress update at $(date)" >> progress.log
+    
     - name: Commit changes
       run: |
         git add .
-        git commit -m "Progress update"
+        if git diff-index --quiet HEAD; then
+          echo "No changes to commit"
+        else
+          git commit -m "Progress update"
+        
 
     - name: Push changes
       run: git push origin main
