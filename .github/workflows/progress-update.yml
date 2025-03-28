@@ -36,6 +36,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Progress update"
+        fi
         
 
     - name: Push changes
