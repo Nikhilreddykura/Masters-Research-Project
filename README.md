@@ -136,7 +136,7 @@ npm start
 
 Special thanks to:
 - Mentor (Proffesor Maria Weber)
-- Team Members (Sai Nikhil Reddy Kura , Divya Garapati, Thanusha Reddy Elluru, Srividya Chatakondu) for their contributions.
+- Team Members (Venkata Rahul Chinta, Sai Nikhil Reddy Kura , Divya Garapati, Thanusha Reddy Elluru, Srividya Chatakondu) for their contributions.
 - Researchers whose work inspired this project (Mishra, Römgens, Tomlinson).
 
 ---
