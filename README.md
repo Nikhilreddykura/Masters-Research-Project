@@ -143,7 +143,7 @@ Special thanks to:
 
 ## 📞 Contact Information  
 
-For inquiries or collaboration opportunities :
+For inquiries or collaboration opportunities:
 
 📧 Email: venkatarahul17@gmail.com  
 🌐 GitHub: https://github.com/19pa1a0428  
