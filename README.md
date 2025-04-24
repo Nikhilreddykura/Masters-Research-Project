@@ -2,6 +2,10 @@
 
 ---
 
+## Link to preview the application : https://v0-masters-research-project.vercel.app/
+
+---
+
 ## 🌟 Overview  
 FutureWorks Solutions is an **Employability Analytics Application** designed to bridge the gap in the recruitment and workforce consultancy domain. By aggregating and analyzing diverse data sources, it provides actionable insights to help individuals make informed career decisions. This platform empowers users with real-time, data-driven intelligence to explore job roles, assess skills, and navigate the complex job market effectively.
 
